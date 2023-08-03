@@ -1,4 +1,0 @@
-import mysql.connector
-conn = mysql.connector.connect(host='localhast',password='Amirmahdy11000',user='root')
-if conn.is_connector():
-    print("connection established...")
